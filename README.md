@@ -80,3 +80,9 @@ This run chart showcases the Transaction Amount over Transaction ID
    ```bash
    python Fraud_Detection.py
 
+## 👩‍💻 Contributors/Collaborators  
+- [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
+- [Yohan Mavely (@BlueLightningWizard)](https://github.com/BlueLightningWizard) 
+- [Nadeem Mithawala (@Nadeem-Mithawala)](https://github.com/Nadeem-Mithawala).
+- [Fabian Pereira](https://www.linkedin.com/in/fabian-pereira-0a4067226/)
+
