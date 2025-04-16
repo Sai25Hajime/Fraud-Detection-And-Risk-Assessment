@@ -1,13 +1,19 @@
 # Fraud-detection-and-risk-assessment
 This is our Applied Data Science Case Study Project of Semester 8.
 
+---
+
 ## 🚨 Fraud Detection & Risk Assessment - Applied Data Science (ADS) Case Study
 
 This repository contains the **Applied Data Science (ADS)** case study, developed as part of our academic curriculum. The project focuses on **fraud detection** and **risk assessment** using data science techniques and models to analyze and predict fraudulent activities in financial datasets.
 
+---
+
 ## 🧠 Problem Statement
 
 The goal of this project is to design and implement a fraud detection and risk assessment model that can efficiently identify potentially fraudulent transactions or activities within a given dataset. The system applies machine learning algorithms and statistical analysis to detect suspicious patterns and assess risks associated with different financial entities.
+
+---
 
 ## 🔬 Approach & Methodology
 
@@ -23,7 +29,8 @@ The goal of this project is to design and implement a fraud detection and risk a
   - Decision Trees
   - Random Forest
   - Support Vector Machines (SVM)
-    
+
+---
 
 ## ⚙️ Technologies Used
 
@@ -37,11 +44,15 @@ The goal of this project is to design and implement a fraud detection and risk a
 
 Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
+---
+
 ## Risk-Score Classification
 
 **Table 1. Rise Score Table**
 
 ![Table](Table.png)
+
+---
 
 ## 📊 Screenshots (Charts)
 ![Bubble_Chart](Bubble_Chart.png)
@@ -57,9 +68,11 @@ Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 This run chart showcases the Transaction Amount over Transaction ID
 
+---
+
 ## 📷 Screenshots (Results)
 
-![Legtimate_Transactions](Legtimate_Transactions.png)
+![Legitimate_Transactions](Legitimate_Transactions.png)
 
 
 **Fig. 3. Legitimate (Real) Transactions**
@@ -68,6 +81,8 @@ This run chart showcases the Transaction Amount over Transaction ID
 
 
 **Fig. 4. Fraudulent (Fake) Transactions**
+
+---
 
 # 🛠️ Setup Instructions
 1. Clone the repository:
@@ -79,6 +94,8 @@ This run chart showcases the Transaction Amount over Transaction ID
 3. Run the Flask app
    ```bash
    python Fraud_Detection.py
+
+---
 
 ## 👩‍💻 Contributors/Collaborators  
 - [Saileen Fernandes (@Sai25Hajime)](https://github.com/Sai25Hajime)
