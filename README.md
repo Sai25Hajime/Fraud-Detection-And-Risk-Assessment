@@ -41,3 +41,7 @@ The goal of this project is to design and implement a fraud detection and risk a
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the Flask app
+   ```bash
+   python Fraud_Detection.py
+
