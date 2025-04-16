@@ -38,30 +38,28 @@ The goal of this project is to design and implement a fraud detection and risk a
 Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 ## 📊 Screenshots (Charts)
-<p align="center">
 ![Bubble_Chart](Bubble_Chart.png)
-</p>
 
 **Fig. 1. Bubble Chart Distribution showcasing Fraud vs Non-Fraud cases**
 
 (Green -> Legitimate transactions, Red -> Fraudulent transactions)
-<p align="center">
+
 ![Run_Chart](Run_Chart.png)
-</p>
+
 
 **Fig. 2. Run Chart Distribution (ID vs Transaction Amount)**
 
 This run chart showcases the Transaction Amount over Transaction ID
 
 ## 📷 Screenshots (Results)
-<p align="center">
+
 ![Legtimate_Transactions](Legtimate_Transactions.png)
-</p>
+
 
 **Fig. 3. Legitimate (Real) Transactions**
-<p align="center">
+
 ![Fraudulent_Transactions](Fraudulent_Transactions.png)
-</p>
+
 
 **Fig. 4. Fraudulent (Fake) Transactions**
 
