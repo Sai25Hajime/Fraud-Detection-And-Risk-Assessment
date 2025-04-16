@@ -12,7 +12,7 @@ The goal of this project is to design and implement a fraud detection and risk a
 ## 🔬 Approach & Methodology
 
 - **Data Collection & Preprocessing:**  
-  Data was gathered from [specify the source or type of data] and preprocessed using techniques like data cleaning, handling missing values, normalization, and feature engineering.
+  Data was gathered from [this dataset](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud) and preprocessed using techniques like data cleaning, handling missing values, normalization, and feature engineering.
 
 - **Feature Selection & Engineering:**  
   Focus was placed on selecting features that contribute significantly to predicting fraudulent behavior and assessing risk. Various statistical and data mining techniques were used to identify important features.
@@ -32,8 +32,11 @@ The goal of this project is to design and implement a fraud detection and risk a
   - Pandas, Numpy (Data Manipulation)
   - Scikit-Learn (Modeling & Evaluation)
   - Matplotlib, Seaborn (Visualization)
-  - XGBoost (for boosted trees, if applicable)
-  
+  - XGBoost (for boosted trees)
+  - Tkinter (for GUI deployment)
+
+Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
+
 # 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
