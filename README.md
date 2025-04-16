@@ -40,24 +40,24 @@ Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 ## 📊 Screenshots (Charts)
 ![Bubble_Chart](Bubble_Chart.png)
 
-Fig. 1. Bubble Chart Distribution showcasing Fraud vs Non-Fraud cases
+**Fig. 1. Bubble Chart Distribution showcasing Fraud vs Non-Fraud cases**
 
 (Green -> Legitimate transactions, Red -> Fraudulent transactions)
 
 ![Run_Chart](Run_Chart.png)
 
-Fig. 2. Run Chart Distribution (ID vs Transaction Amount)
+**Fig. 2. Run Chart Distribution (ID vs Transaction Amount)**
 
 This run chart showcases the Transaction Amount over Transaction ID
 
 ## 📷 Screenshots (Results)
 ![Legtimate_Transactions](Legtimate_Transactions.png)
 
-Fig. 3. Legitimate (Real) Transactions
+**Fig. 3. Legitimate (Real) Transactions**
 
 ![Fraudulent_Transactions](Fraudulent_Transactions.png)
 
-Fig. 4. Fraudulent (Fake) Transactions
+**Fig. 4. Fraudulent (Fake) Transactions**
 
 # 🛠️ Setup Instructions
 1. Clone the repository:
