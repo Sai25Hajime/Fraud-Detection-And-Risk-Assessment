@@ -39,11 +39,13 @@ Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 ## 📊 Screenshots (Charts)
 ![Bubble_Chart](Bubble_Chart.png)
+
 Fig. 1. Bubble Chart Distribution showcasing Fraud vs Non-Fraud cases
 
 (Green -> Legitimate transactions, Red -> Fraudulent transactions)
 
 ![Run_Chart](Run_Chart.png)
+
 Fig. 2. Run Chart Distribution (ID vs Transaction Amount)
 
 This run chart showcases the Transaction Amount over Transaction ID
