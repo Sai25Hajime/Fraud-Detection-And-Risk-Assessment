@@ -1,5 +1,5 @@
 # Fraud-detection-and-risk-assessment
-This is our Applied Data Science Case Study Project
+This is our Applied Data Science Case Study Project of Semester 8.
 
 ## 🚨 Fraud Detection & Risk Assessment - Applied Data Science (ADS) Case Study
 
