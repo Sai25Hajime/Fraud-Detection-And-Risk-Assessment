@@ -40,6 +40,7 @@ Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 ## Risk-Score Classification
 
 **Table 1. Rise Score Table**
+
 ![Table](Table.png)
 
 ## 📊 Screenshots (Charts)
