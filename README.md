@@ -3,7 +3,7 @@ This is our Applied Data Science Case Study Project of Semester 8 in Computer En
 
 ---
 
-## 🚨 Fraud Detection & Risk Assessment - Applied Data Science (ADS) Case Study
+## 🚨 Financial - Fraud Detection & Risk Assessment - Applied Data Science (ADS) Case Study
 
 This repository contains the **Applied Data Science (ADS)** case study, developed as part of our academic curriculum. The project focuses on **fraud detection** and **risk assessment** using data science techniques and models to analyze and predict fraudulent activities in financial datasets.
 
