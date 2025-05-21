@@ -50,7 +50,7 @@ Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 **Table 1. Rise Score Table**
 
-![Table](Table.png)
+![Table](images/Table.png)
 
 ---
 
