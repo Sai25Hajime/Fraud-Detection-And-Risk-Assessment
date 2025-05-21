@@ -1,4 +1,4 @@
-# Fraud-detection-and-risk-assessment
+# Fraud-Detection-And-Risk-Assessment
 This is our Applied Data Science Case Study Project of Semester 8 in Computer Engineering..
 
 ---
@@ -55,13 +55,13 @@ Models were evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 ---
 
 ## 📊 Screenshots (Charts)
-![Bubble_Chart](Bubble_Chart.png)
+![Bubble_Chart](images/Bubble_Chart.png)
 
 **Fig. 1. Bubble Chart Distribution showcasing Fraud vs Non-Fraud cases**
 
 (Green -> Legitimate transactions, Red -> Fraudulent transactions)
 
-![Run_Chart](Run_Chart.png)
+![Run_Chart](images/Run_Chart.png)
 
 
 **Fig. 2. Run Chart Distribution (ID vs Transaction Amount)**
@@ -72,12 +72,12 @@ This run chart showcases the Transaction Amount over Transaction ID
 
 ## 📷 Screenshots (Results)
 
-![Legitimate_Transactions](Legitimate_Transactions.png)
+![Legitimate_Transactions](images/Legitimate_Transactions.png)
 
 
 **Fig. 3. Legitimate (Real) Transactions**
 
-![Fraudulent_Transactions](Fraudulent_Transactions.png)
+![Fraudulent_Transactions](images/Fraudulent_Transactions.png)
 
 
 **Fig. 4. Fraudulent (Fake) Transactions**
